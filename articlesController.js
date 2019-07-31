@@ -8,7 +8,7 @@ function ArticleController (req, res)
         this.list = async () => {
             try {
 
-                const result = await sequelize.query( 'SELECT * FROM Article',
+                const result = await sequelize.query( 'SELECT * FROM Articles',
                 {
                    type: sequelize.QueryTypes.SELECT
                 })
@@ -27,7 +27,7 @@ function ArticleController (req, res)
             try {
                 const articleId = req.params.id
                 const result = await sequelize.query(
-                    'SELECT * FROM Article WHERE id = :articleId',
+                    'SELECT * FROM Articles WHERE id = :articleId',
                     {
                         replacements: {
                             articleId
@@ -48,11 +48,12 @@ function ArticleController (req, res)
         }
         this.add = async () => {
             try {
-                const { title, body, author, createdAt, updatedAt } = req.body;
-                await sequelize.query('INSERT INTO Article(title, body, author, createdAt, updatedAt) VALUES(:title, :body, :author, :createdAt, :updatedAt)',
+                const { title, image, body, author, createdAt, updatedAt } = req.body;
+                await sequelize.query('INSERT INTO Articles(title, image, body, author, createdAt, updatedAt) VALUES(:title, :image, :body, :author, :createdAt, :updatedAt)',
                  {
                     replacements: {
                         title,
+                        image,
                         body,
                         author,
                         createdAt,
@@ -61,7 +62,7 @@ function ArticleController (req, res)
                     type: sequelize.QueryTypes.INSERT
                 })
                 logger.info('A new article is added');
-                res.send('Success')
+               res.send('Success')
                 
             } catch (error) {
                 logger.info(error.message)
@@ -73,11 +74,12 @@ function ArticleController (req, res)
         this.update = async () => {
             try {
                 const articleId = req.params.id;
-                const { title, body, author, createdAt, updatedAt } = req.body;
-                await sequelize.query('UPDATE Article SET title = :title, body = :body, author = :author, createdAt = :createdAt, updatedAt = :updatedAt WHERE id = :articleId',
+                const { title, image, body, author, createdAt, updatedAt } = req.body;
+                await sequelize.query('UPDATE Articles SET title = :title, image = :image, body = :body, author = :author, createdAt = :createdAt, updatedAt = :updatedAt WHERE id = :articleId',
                  {
                     replacements: {
                         title,
+                        image,
                         body,
                         author,
                         createdAt,
@@ -98,7 +100,7 @@ function ArticleController (req, res)
         this.delete = async () => {
             try {
                 const articleId = req.params.id;
-                await sequelize.query('DELETE FROM Article WHERE id = :articleId', 
+                await sequelize.query('DELETE FROM Articles WHERE id = :articleId', 
                 {
                     replacements: {
                         articleId

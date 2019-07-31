@@ -5,22 +5,22 @@
     "database": "blogapp",
     "host": "127.0.0.1",
     "dialect": "mysql"
-    
+   
   },
   "test": {
-    "username": "root",
+    "username": "newuser",
     "password": "password",
     "database": "blogapp",
     "host": "127.0.0.1",
     "dialect": "mysql"
-    
+   
   },
   "production": {
-    "username": "root",
+    "username": "newuser",
     "password": "password",
     "database": "blogapp",
     "host": "127.0.0.1",
     "dialect": "mysql"
-    
+   
   }
 }

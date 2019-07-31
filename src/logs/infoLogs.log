@@ -18,3 +18,91 @@
 [2019-07-31T09:36:59.661Z] info Listening to requests on http://localhost:8000
 [2019-07-31T09:38:30.698Z] info Listening to requests on http://localhost:8000
 [2019-07-31T09:46:25.787Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:05:02.700Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:05:18.106Z] info success
+[2019-07-31T13:05:18.178Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:06:39.336Z] info Success
+[2019-07-31T13:06:39.365Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:08:52.817Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:10:59.709Z] info Success
+[2019-07-31T13:10:59.777Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:11:03.238Z] info success
+[2019-07-31T13:11:03.267Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:11:15.357Z] info success
+[2019-07-31T13:11:15.421Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:13:03.125Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:14:37.137Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:14:59.483Z] info success
+[2019-07-31T13:15:17.640Z] info Success
+[2019-07-31T13:15:20.886Z] info Success
+[2019-07-31T13:15:47.671Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:15:47.727Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:15:54.449Z] info success
+[2019-07-31T13:15:57.577Z] info success
+[2019-07-31T13:16:02.231Z] info Success
+[2019-07-31T13:16:14.459Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:16:20.482Z] info success
+[2019-07-31T13:16:23.558Z] info success
+[2019-07-31T13:16:25.983Z] info success
+[2019-07-31T13:16:33.257Z] info success
+[2019-07-31T13:16:53.509Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:16:53.661Z] info success
+[2019-07-31T13:16:53.710Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:16:55.982Z] info success
+[2019-07-31T13:16:56.028Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:19:57.594Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:20:27.376Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:20:41.289Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:20:57.564Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:21:14.064Z] info success
+[2019-07-31T13:21:14.139Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:23:16.090Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:24:31.501Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:24:35.562Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:25:07.327Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:27:14.682Z] info success
+[2019-07-31T13:28:04.823Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:28:06.962Z] info success
+[2019-07-31T13:28:16.114Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:28:34.951Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:29:35.121Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:30:13.337Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:30:15.238Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:31:07.923Z] info success
+[2019-07-31T13:31:16.657Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:32:11.733Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:32:14.001Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:41:38.146Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:41:42.619Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:41:52.244Z] info success
+[2019-07-31T13:42:01.665Z] info success
+[2019-07-31T13:42:01.709Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:42:28.896Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:42:31.999Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:42:33.845Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:42:36.292Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:56:40.472Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:56:40.593Z] info Table 'blogapp.article' doesn't exist
+[2019-07-31T13:56:44.954Z] info Table 'blogapp.article' doesn't exist
+[2019-07-31T13:57:48.608Z] info Listening to requests on http://localhost:8000
+[2019-07-31T13:57:48.721Z] info success
+[2019-07-31T13:57:48.811Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:57:55.556Z] info success
+[2019-07-31T13:57:55.590Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:58:12.124Z] info Cannot destructure property `title` of 'undefined' or 'null'.
+[2019-07-31T13:58:29.945Z] info Success
+[2019-07-31T13:58:30.709Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:58:46.759Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T13:58:49.413Z] info success
+[2019-07-31T13:58:54.706Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T14:00:00.290Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:03:28.547Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:09:00.248Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:09:32.423Z] info success
+[2019-07-31T14:09:42.931Z] info A new article is added
+[2019-07-31T14:10:10.174Z] info A new article is added
+[2019-07-31T14:10:27.909Z] info success
+[2019-07-31T14:10:27.956Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T14:11:02.759Z] info Truncated incorrect DOUBLE value: 'null'
+[2019-07-31T14:14:14.854Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:14:22.477Z] info success
