@@ -36,6 +36,13 @@ res.status(err.status || 500);
 res.render('error');
 })
 
+if (process.env.NODE_ENV === 'production') {
+	app.use(express.static('client/build'));
+}
+app.get('*', (request, response) => {
+	response.sendFile(path.join(__dirname, 'client/build', 'index.html'));
+});
+
 
 app.listen(port, () => {
   logger.info(`Listening to requests on http://localhost:${port}`)
