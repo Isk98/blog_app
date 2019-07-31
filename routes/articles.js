@@ -6,10 +6,6 @@ router.get('/', (req, res) =>{
     (new articlesController(req, res)).list()
 })
 
-
-router.get('/test', (req, res) => res.send('hello'))
-
-
 router.get('/:id', (req, res) =>{
     (new articlesController(req, res)).show()
 })
