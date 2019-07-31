@@ -21,7 +21,7 @@ app.get("/", (req, res) => {
   res.render("index", { title: "Home" })
 })
 
-app.use('/:id', imageValidation)
+app.use('/image/:id', imageValidation)
 
 // error handler
 app.use(function(err, req, res, next) {
