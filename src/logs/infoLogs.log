@@ -115,3 +115,22 @@
 [2019-07-31T14:35:17.204Z] info Listening to requests on http://localhost:8000
 [2019-07-31T14:37:09.986Z] info Listening to requests on http://localhost:8000
 [2019-07-31T14:37:14.780Z] info A new article is added
+[2019-07-31T14:56:58.142Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:57:02.215Z] info success
+[2019-07-31T14:57:23.037Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T14:57:29.315Z] info success
+[2019-07-31T14:57:34.230Z] info Success
+[2019-07-31T14:57:35.094Z] info Success
+[2019-07-31T15:03:04.426Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:13:42.924Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:13:48.122Z] info Success
+[2019-07-31T15:13:51.943Z] info success
+[2019-07-31T15:14:46.961Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:14:51.030Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:14:54.663Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:14:58.700Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:15:06.256Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:15:19.560Z] info success
+[2019-07-31T15:15:25.712Z] info Success
+[2019-07-31T15:15:29.660Z] info Success
+[2019-07-31T15:17:38.485Z] info Listening to requests on http://localhost:8000

@@ -36,12 +36,12 @@ res.status(err.status || 500);
 res.render('error');
 })
 
-if (process.env.NODE_ENV === 'production') {
-	app.use(express.static('views/index'));
-}
-app.get('/articles', (request, response) => {
-	response.sendFile(path.join(__dirname, 'routes', 'article'));
-})
+// if (process.env.NODE_ENV === 'production') {
+// 	app.use(express.static('views/index'))
+// }
+// app.get('/articles', (request, response) => {
+// 	response.sendFile(path.join(__dirname, 'routes', 'article'));
+// })
 
 
 app.listen(port, () => {
