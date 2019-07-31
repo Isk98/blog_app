@@ -37,10 +37,10 @@ res.render('error');
 })
 
 if (process.env.NODE_ENV === 'production') {
-	app.use(express.static('viws/index'));
+	app.use(express.static('views/index'));
 }
-app.get('*', (request, response) => {
-	response.sendFile(path.join(__dirname, 'views', 'index.html'));
+app.get('/articles', (request, response) => {
+	response.sendFile(path.join(__dirname, 'routes', 'article'));
 })
 
 
