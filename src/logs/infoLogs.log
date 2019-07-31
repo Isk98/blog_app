@@ -134,3 +134,8 @@
 [2019-07-31T15:15:25.712Z] info Success
 [2019-07-31T15:15:29.660Z] info Success
 [2019-07-31T15:17:38.485Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:35:49.162Z] info Listening to requests on http://localhost:8000
+[2019-07-31T15:35:54.516Z] info success
+[2019-07-31T15:36:02.154Z] info Success
+[2019-07-31T15:36:11.440Z] info "value" must be at least 600 pixels in width and 340 pixels in height
+[2019-07-31T15:48:33.666Z] info Listening to requests on http://localhost:8000
