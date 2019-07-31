@@ -106,3 +106,12 @@
 [2019-07-31T14:11:02.759Z] info Truncated incorrect DOUBLE value: 'null'
 [2019-07-31T14:14:14.854Z] info Listening to requests on http://localhost:8000
 [2019-07-31T14:14:22.477Z] info success
+[2019-07-31T14:24:14.216Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:24:16.092Z] info A new article is added
+[2019-07-31T14:30:08.868Z] info A new article is added
+[2019-07-31T14:32:26.131Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:32:50.329Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:33:01.229Z] info A new article is added
+[2019-07-31T14:35:17.204Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:37:09.986Z] info Listening to requests on http://localhost:8000
+[2019-07-31T14:37:14.780Z] info A new article is added

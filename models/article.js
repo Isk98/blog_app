@@ -4,7 +4,8 @@ module.exports = (sequelize, DataTypes) => {
     id: {
       type: DataTypes.INTEGER,
       primaryKey: true,
-      autoIncrement: true
+      autoIncrement: true,
+      allowNull: false
     },
     image: {
       type: DataTypes.STRING,
@@ -26,7 +27,7 @@ module.exports = (sequelize, DataTypes) => {
     createdAt: DataTypes.DATE,
     updatedAt: DataTypes.DATE
   }, {});
-  Article.associate = function(models) {
+  Articles.associate = function(models) {
     // associations can be defined here
   };
   return Articles;
